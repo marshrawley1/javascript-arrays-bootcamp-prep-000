@@ -5,12 +5,12 @@ return [twix, ...chocolateBars]
 
 }
 
-/*function destructivelyAddElementToBeginningOfArray(chocolateBars, 'twix'){
-chocolateBars.unshift('twix')
+function destructivelyAddElementToBeginningOfArray(chocolateBars, twix){
+chocolateBars.unshift(twix)
 return chocolateBars
 }
 
-function addElementToEndOfArray(chocolateBars, 'twix'){
+/*function addElementToEndOfArray(chocolateBars, 'twix'){
 [...chocolateBars, 'twix']
 return  chocolateBars
 }
