@@ -15,8 +15,8 @@ return [...chocolateBars, twix]
 
 }
 
-/*function destructivelyAddElementToEndOfArray(chocolateBars, 'twix'){
-chocolateBars.push('twix')
+function destructivelyAddElementToEndOfArray(chocolateBars, twix){
+chocolateBars.push(twix)
 return chocolateBars
 }
-*/
+
