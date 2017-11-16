@@ -1,6 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-function addElementToBeginningOfArray(chocolateBars, 'twix'){
+/*function addElementToBeginningOfArray(chocolateBars, 'twix'){
 ['twix', ...chocolateBars]
 return chocolateBars
 }
@@ -19,3 +19,4 @@ function destructivelyAddElementToEndOfArray(chocolateBars, 'twix'){
 chocolateBars.push('twix')
 return chocolateBars
 }
+*/
