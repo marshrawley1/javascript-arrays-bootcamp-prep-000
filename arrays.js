@@ -19,3 +19,7 @@ function destructivelyAddElementToEndOfArray(chocolateBars, twix){
 chocolateBars.push(twix)
 return chocolateBars
 }
+
+function accessElementInArray(chocolateBars, 1) {
+  return chocolateBars[1]
+}
