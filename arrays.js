@@ -5,7 +5,7 @@ function addElementToBeginningOfArray(chocolateBars, 'twix'){
 return chocolateBars
 }
 
-function destructivelyAddElementToBeginningOfArray(chocolateBars, 'twix'){
+/*function destructivelyAddElementToBeginningOfArray(chocolateBars, 'twix'){
 chocolateBars.unshift('twix')
 return chocolateBars
 }
